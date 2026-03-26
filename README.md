@@ -1,11 +1,11 @@
 # Acerca de Mí:
 
-Soy **Marin (Zaeinmd)**
+Soy Marín (Zaeinmd)
 
 * 🎓 Actualmente soy estudiante en la Universidad Tecnológica de la Mixteca (UTM).
-* 💻 Me apasiona el desarrollo de software, especialmente el desarrollo **FullStack** y el desarrollo **móvil**.
+* 💻 Me apasiona el desarrollo de software, especialmente el desarrollo **FullStack** y el **Desarrollo Móvil**.
 * 🎮 He trabajado con **Unity**, explorando el desarrollo de videojuegos y experiencias interactivas.
-* 🐧 Mi entorno principal es **Ubunto Linux**, donde desarrollo y experimento constantemente.
+* 🐧 Mi entorno principal es **Ubuntu Linux**, donde desarrollo y experimento constantemente.
 * ⚡ **Fun fact:** Para mí, programar con buena música y un buen cafe es como entrar en modo concentración total.
 
 ---
